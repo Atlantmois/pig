@@ -1,0 +1,21 @@
+General PIG License v0.1
+
+The General PIG License is a parody license and has not been reviewed as a serious software license. It is part of the fictional PIG project, not an OSI-approved or FSF-approved license. Do not rely on it as the sole license for serious software. Nothing here claims to replace a conventional open-source license, and future software in this repository may be released under a separate, established license.
+
+The Pig is an idea that can be run, studied, changed, and shared. We call the material that lets someone understand and change a Pig its Source Genome. That may be prose, a drawing, a small program, or a particularly clear note in the margin. A Pig without a Source Genome may still be amusing, but it is harder to improve.
+
+You may run the Pig. This includes reading the documentation, trying the examples, and imagining how a fictional component might behave. Running a fictional kernel does not require a computer. It may require a reasonable tolerance for ambiguity.
+
+You may study the Pig. Open the Source Genome, trace an idea to its source, and ask why each part exists. If an answer is missing, you may write it down. If a part has no purpose, you may propose removing it. This is considered useful work even when the resulting patch contains fewer lines than the original.
+
+You may modify the Pig. Fork an idea, improve a description, redraw a permitted asset, or give a small tool a better name. Modified pigs should remain identifiable as modified pigs. State what you changed when that matters to the next person reading or using the work. A change log can be short; accuracy matters more than ceremony.
+
+You may share the Pig. Pass along PIG material with its notices intact, give credit where it is due, and make the corresponding Source Genome available when you can. Do not claim that another project or person endorses your version. Do not remove a third-party creator's attribution merely because it interrupts a joke.
+
+We call this sharing impulse Copigleft. Here the word names a project attitude, not a tested legal mechanism. If you need an enforceable permission grant, compatibility analysis, patent terms, warranty language, or a reliable definition of derivative work, use an established license and seek qualified advice as appropriate. This document does not solve those problems by giving them pig-themed names.
+
+Third-party works are not absorbed into this text. Their own licenses and attribution requirements continue to apply. In particular, an emoji rendering, photograph, font, quoted passage, or outside contribution may carry terms that this document cannot change. Verify those terms before redistributing the work. A link to an upstream source is useful, but it is not a substitute for keeping any required notices.
+
+PIG does not guarantee that any fictional system works, that any joke lands, or that a package manager named piglet can install lunch. The project asks contributors to be honest about what is real, what is imagined, and what is borrowed. It is maintained as a cultural experiment, not a promise of production-ready infrastructure.
+
+You may continue the Pig. Prefer clarity over novelty, credit over confusion, and a small correct change over an ambitious unnecessary one. If the simplest responsible choice is to leave something unbuilt, leave it unbuilt. The Pig will understand.
